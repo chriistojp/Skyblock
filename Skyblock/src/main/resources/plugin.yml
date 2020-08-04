@@ -1,0 +1,10 @@
+name: Skyblock
+version: ${project.version}
+main: org.skysurge.skyblock.SkyBlock
+api-version: 1.13
+authors: [Christo, Mason]
+description: Skyblock
+website: http://www.devchristo.com/ [masons porfolio]
+commands:
+  island:
+  sendpacket:
